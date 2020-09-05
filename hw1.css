@@ -59,6 +59,19 @@ nav a:focus{
 p{
 	font-weight:bold;
 }
+span{
+	display: block;
+	margin-inline-start: 350px;
+	margin-inline-end: 450px;
+	text-align: center;
+	font-size: 18pt;
+	margin-block-start: 50px;
+	font-family: "Comic Sans MS";
+	background-color: #9ad656;
+	border: 2px solid #000000;
+	border-radius: 15px;
+	padding: 30px;
+}
 table{
 	border: #9bd656;
 	margin: 30px 100px 200px 130px;
